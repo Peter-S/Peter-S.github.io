@@ -16,9 +16,22 @@ p {
     font-weight: 300;
 }
 
-divLeft {
+.divLeft {
     height: 300px;
     width: 48%;
     background-color: chartreuse;
     float: left;
+}
+
+.divMiddle { 
+	padding-top: 325px;
+	text-align: center;
+}
+
+.divTextMiddle {
+	text-align: center;
+}
+button {
+	width: 125px;
+	height: 40px;
 }
